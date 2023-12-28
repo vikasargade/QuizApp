@@ -127,7 +127,7 @@ public class Main {
                 modifyAnswer();
                 break;
             case 4 :
-                return;  // IT WILL RETURN TO THE MAIN METHOD
+                return;
             default:
                 System.out.println("INVALID OPTION");
         }
